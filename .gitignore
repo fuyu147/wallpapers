@@ -1,0 +1,9 @@
+*
+
+!wall
+!.gitignore
+!README.md
+!out-wall.sh
+!*.png
+!*.jpg
+!*.jpeg

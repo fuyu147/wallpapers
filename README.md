@@ -1,4 +1,5 @@
 # Wallpapers
+no idea where i got these from. Please don't ask me that
 
 ---
 
@@ -32,4 +33,5 @@
 ![sung-jin-woo-chilling](wall/sung-jin-woo-chilling.jpg)
 ![surtr-ring-back](wall/surtr-ring-back.jpg)
 ![texas-drawing](wall/texas-drawing.jpg)
+![trans-angular](wall/trans-angular.jpg)
 ![urban_architecture](wall/urban_architecture.jpg)

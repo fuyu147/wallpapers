@@ -24,6 +24,7 @@ no idea where i got these from. Please don't ask me that
 ![kanagawa-waves](wall/kanagawa-waves.jpeg)
 ![kiku-kimono](wall/kiku-kimono.jpg)
 ![lake-suwa](wall/lake-suwa.jpg)
+![logs_snow](wall/logs_snow.jpg)
 ![rosepine-arch](wall/rosepine-arch.jpg)
 ![rosepine-portal-cake](wall/rosepine-portal-cake.png)
 ![shinano-sleeping-moon](wall/shinano-sleeping-moon.jpg)
